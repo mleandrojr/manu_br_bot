@@ -1,0 +1,15 @@
+{
+  "name": "manu_br_bot",
+  "version": "1.0.0",
+  "description": "Um bot de testes para o Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "Marcos Leandro",
+  "license": "ISC"
+}
